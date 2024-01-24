@@ -5,6 +5,9 @@
 
 = 행위를 클래스로 캡슐화하여 해당 계열(집합)안에서 자유롭게 바꿀 수 있게 해주는 패턴
 
+<img src="https://github.com/ljw1126/user-content/blob/master/head-first-design-pattern/strategy/strategyUML.png?raw=true"/>
+
+
 ### 객체지향 원칙 (디자인 원칙)
 ① 바뀌는 부분을 따로 뽑아서 캡슐화한다.
 <br/>
