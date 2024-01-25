@@ -1,7 +1,5 @@
 package headfirst.design.factory.abstractfactory;
 
-import headfirst.design.factory.abstractfactory.Pizza;
-
 public class CheesePizza extends Pizza {
 
     PizzaIngredientFactory ingredientFactory;
